@@ -1,5 +1,3 @@
-console.log("This is loaded");
-
 // Spotify API keys
 
 module.exports = {
